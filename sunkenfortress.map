@@ -6,7 +6,7 @@
 "classname" "worldspawn"
 "wad" "../wads/prototype_1_3.wad;../wads/prototype_1_3.wad;../wads/armagon.wad;../wads/chicosruin_Q1.wad;../wads/chicosruin.wad;../wads/rogue.wad"
 "sky" "jajsundown1_"
-"_sunlight" "350"
+"_sunlight" "300"
 "_sunlight_color" "0.890196 0.635294 0.45098"
 // brush 0
 {
