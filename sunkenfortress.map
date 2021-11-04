@@ -5069,8 +5069,8 @@
 // entity 17
 {
 "classname" "info_player_deathmatch"
-"origin" "1136 -1424 -456"
-"angle" "120"
+"origin" "1120 -1232 -456"
+"angle" "180"
 }
 // entity 18
 {
@@ -5445,7 +5445,8 @@
 // entity 31
 {
 "classname" "info_player_deathmatch"
-"origin" "-1728 944 -152"
+"origin" "-1584 928 -152"
+"angle" "45"
 }
 // entity 32
 {
@@ -11234,7 +11235,7 @@
 {
 "classname" "info_player_deathmatch"
 "origin" "-1120 616 -456"
-"angle" "300"
+"angle" "330"
 }
 // entity 65
 {
@@ -11246,7 +11247,7 @@
 {
 "classname" "info_player_deathmatch"
 "origin" "584 -536 -456"
-"angle" "120"
+"angle" "135"
 }
 // entity 67
 {
